@@ -65,17 +65,17 @@ University of Kelaniya, Sri Lanka
 
 # 📌 Featured Projects
 
-🔹 **Movie Recommendation System**  
-Neural Collaborative Filtering with attention mechanisms.
+🔹 **Central Authentication System Using MS Identity Package**  
+A centralized authentication and authorization system built using the Microsoft Identity framework for secure user management.
 
-🔹 **Gold Price Prediction**  
-Time series forecasting using ARIMA models.
 
-🔹 **Angular + .NET Web Application**  
-Full-stack application using Web API and Angular.
+🔹 **VoltMarket**  
+An e-commerce platform for buying and selling electrical and electronic items online.
 
-🔹 **Pinterest Hybrid Recommendation Model**  
-Hybrid recommendation system using deep learning.
+🔹 **SkillNest**  
+A learning platform where teachers can share their skills and students can submit assignments and interact with instructors.
+
+
 
 ---
 
