@@ -58,7 +58,7 @@ University of Kelaniya, Sri Lanka
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheha-Dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Hybrid recommendation system using deep learning.
 
 📧 Email: **shehanvindika429@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn profile link here)*
+💼 LinkedIn: *(https://www.linkedin.com/in/vindika-shehan-504029389/)*
 
 ---
 
