@@ -27,4 +27,6 @@
 ## 📫 Contact
 Email: shehanvindika429@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheha-Dev&layout=compact)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
