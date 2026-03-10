@@ -14,15 +14,15 @@
 ## 🔧 Current Projects
 
 - Central Authentication System
-  A centralized authentication and authorization system built using the Microsoft Identity framework for secure user
-  management.
+  (A centralized authentication and authorization system built using the Microsoft Identity framework for secure user
+  management.)
   
 - VoltMarket
-  An e-commerce platform for buying and selling electrical and electronic items online.
+  (An e-commerce platform for buying and selling electrical and electronic items online.)
   
 - SkillNest
-  A learning platform where teachers can share their skills and students can submit assignments and interact with
-  instructors.
+  (A learning platform where teachers can share their skills and students can submit assignments and interact with
+  instructors.)
 
 ## 📫 Contact
 Email: shehanvindika429@gmail.com
